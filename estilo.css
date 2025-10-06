@@ -1,0 +1,142 @@
+/* 🌟 Delicias Rake — Fast Food Professional Theme */
+  
+  /* Fondo general */
+  body {
+    background-color: #2e1e16; /* Marrón oscuro, elegante */
+      color: #fff8f0;
+      font-family: 'Poppins', sans-serif;
+    line-height: 1.7;
+    margin: 40px;
+  }
+
+/* Encabezados principales */
+  h1, h2, h3, h4 {
+    color: #f4c06a; /* Dorado cálido */
+      font-weight: 700;
+    text-shadow: 1px 1px 3px #000;
+  }
+
+/* Título principal */
+  h1 {
+    font-size: 2.8em;
+    text-align: center;
+    border-bottom: 3px solid #f4c06a;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+  }
+
+/* Subtítulos */
+  h2 {
+    color: #ffdd94;
+      margin-top: 30px;
+  }
+
+/* Párrafos */
+  p {
+    font-size: 1.05em;
+    color: #fffaf2;
+  }
+
+/* Bloques destacados (intro, notas, etc.) */
+  div.intro, .note {
+    background-color: #3e2b1f;
+      border-left: 6px solid #f4c06a;
+    padding: 15px 20px;
+    border-radius: 12px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  }
+
+/* Enlaces */
+  a {
+    color: #ffba4b;
+      text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+
+a:hover {
+  color: #ffd37b;
+    text-decoration: underline;
+}
+
+/* Tablas o secciones organizadas */
+  table, th, td {
+    border: 1px solid #f4c06a;
+    border-collapse: collapse;
+    padding: 8px 12px;
+  }
+
+th {
+  background-color: #4b2f21;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: #3a2619;
+}
+
+/* Botones estilo fast food moderno */
+  button, .btn {
+    background-color: #d45c2d;
+      color: #fffaf0;
+      border: none;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+button:hover, .btn:hover {
+  background-color: #f4c06a;
+    color: #2e1e16;
+    transform: scale(1.05);
+}
+
+/* Citas o frases */
+  blockquote {
+    border-left: 4px solid #f4c06a;
+    padding-left: 15px;
+    color: #ffdca9;
+      font-style: italic;
+  }
+
+/* Pie de página */
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    border-top: 2px solid #f4c06a;
+    color: #ffe2b2;
+      font-size: 0.9em;
+  }
+/* 🌰 TOC flotante oscuro elegante */
+#TOC, .tocify {
+  background-color: #2a1b0f !important; /* Marrón oscuro */
+  color: #f8e9c9 !important; /* Texto claro tipo crema */
+  border-radius: 10px;
+  padding: 12px;
+  font-size: 0.95em;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+/* Títulos del TOC */
+#TOC .tocify-header, 
+.tocify-item {
+  color: #f8e9c9 !important; /* Beige claro */
+  font-weight: 600;
+}
+
+/* Hover e ítem activo */
+#TOC .tocify-focus,
+.tocify-item:hover {
+  background-color: #f4c06a !important; /* Dorado de la marca */
+  color: #2a1b0f !important; /* Marrón oscuro */
+  border-radius: 6px;
+}
+
+/* Borde sutil para separar el TOC */
+#TOC {
+  border: 2px solid #f4c06a !important; /* Dorado suave */
+}

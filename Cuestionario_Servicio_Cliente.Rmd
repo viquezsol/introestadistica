@@ -1,0 +1,77 @@
+---
+title: "🍔 Cuestionario: Satisfacción del Cliente en Delicias Rake"
+author: "Marisol Víquez Rivera"
+date: "2025-10-06"
+output:
+  html_document:
+    theme: yeti
+    toc: true
+    toc_float: true
+    css: estilo.css
+---
+<center>
+<img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="120">
+</center>
+
+# 🍟 Introducción
+
+### 🎯 Propósito del cuestionario
+El presente cuestionario tiene como propósito **evaluar el nivel de satisfacción de los clientes de Delicias Rake**, un negocio local dedicado a comidas rápidas y tradicionales.  
+El objetivo es conocer las percepciones sobre **la calidad de los productos, el servicio express y la atención al cliente**, con el fin de mejorar continuamente la experiencia ofrecida.
+
+### ⭐ Importancia del estudio
+La retroalimentación de los clientes es esencial para fortalecer la **confianza, fidelización y crecimiento del negocio**.  
+Los resultados de esta encuesta permitirán implementar acciones estratégicas orientadas a la mejora continua de nuestros servicios.
+
+### 📋 Instrucciones generales
+- Tiempo estimado de respuesta: **3 a 5 minutos**.  
+- Lea con atención cada pregunta antes de responder.  
+- En preguntas de opción múltiple, marque la que mejor describa su experiencia.  
+- En preguntas abiertas, escriba su opinión de manera clara y breve.  
+- Su participación es **voluntaria, anónima y confidencial**.
+
+### 🔒 Confidencialidad y uso de los datos
+Toda la información recolectada se usará únicamente con fines **académicos y de mejora del servicio**.  
+No se recopilan datos personales que permitan identificarle.  
+Su respuesta contribuirá al fortalecimiento de la calidad y atención al cliente en Delicias Rake.
+
+---
+
+# 👩‍🍳 Población meta
+
+### 👥 Características demográficas
+Este cuestionario está dirigido a **clientes de Delicias Rake**, tanto quienes solicitan pedidos para llevar como quienes utilizan el servicio express.
+
+### 🧾 Criterios de inclusión
+- Personas que hayan realizado al menos **una compra** en Delicias Rake.  
+
+### 🚫 Criterios de exclusión
+- Personas que nunca hayan realizado pedidos.  
+- Quienes no deseen participar voluntariamente.  
+
+### 📊 Tamaño estimado de la población
+Se estima una población aproximada de **100 clientes activos** en los últimos tres meses.
+
+---
+
+# 🎯 Objetivo general
+Evaluar la **satisfacción, percepción de calidad y atención** brindada por Delicias Rake, con el fin de implementar estrategias de mejora continua en su servicio express y productos.
+
+---
+
+# 📎 Enlace al cuestionario
+Puede acceder al formulario en línea en el siguiente enlace:  
+👉 [Haz clic aquí para responder el cuestionario](https://forms.office.com/r/JsZN2ryFfy)  
+
+---
+
+# 🧁 Nota final
+Este instrumento forma parte de una práctica académica para la asignatura **Introducción a la Estadística**, con el propósito de aplicar técnicas de **recolección y análisis de datos** en contextos reales de servicio al cliente.  
+
+<center>
+<img src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" width="100">
+</center>
+
+<footer>
+Gracias por apoyar a Delicias Rake 🍔💛 — ¡Tu opinión sí importa!
+</footer>
